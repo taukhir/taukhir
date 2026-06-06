@@ -17,7 +17,10 @@
   </a>
 </div>
 
-## Hello, I am Tauqeer
+## Hello, I am Tauqeer Ahmed
+
+Online, I use the GitHub username **taukhir**, so you may also find me by
+searching for **Taukhir Ahmed**.
 
 I am a **Lead Backend Engineer** based in Bangalore, India, with nearly seven
 years of experience delivering enterprise software across finance, healthcare,
