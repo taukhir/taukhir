@@ -64,13 +64,13 @@ flowchart LR
 
 ## ShopVerse: Architecture in Practice
 
-<a href="https://github.com/taukhir/shopverse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=taukhir&repo=shopverse&theme=transparent&hide_border=true&title_color=ff6b35&text_color=9ca3af&icon_color=ff6b35" alt="ShopVerse repository card" />
-</a>
-
 **ShopVerse** is a production-minded Spring Boot microservices reference
 platform where I explore the decisions behind a real e-commerce backend, not
 just a collection of disconnected services.
+
+| Repository | Focus | Core stack |
+| --- | --- | --- |
+| [**taukhir/shopverse**](https://github.com/taukhir/shopverse) | Resilient commerce workflows and production-minded service design | Java 17, Spring Boot, Kafka, Kubernetes, AWS |
 
 ### The engineering questions it answers
 
@@ -122,14 +122,14 @@ just a collection of disconnected services.
 
 ## GitHub Activity
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=taukhir&show_icons=true&hide_border=true&theme=transparent&title_color=ff6b35&text_color=9ca3af&icon_color=ff6b35&rank_icon=github" alt="Tauqeer Ahmed GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taukhir&layout=compact&hide_border=true&theme=transparent&title_color=ff6b35&text_color=9ca3af&langs_count=8" alt="Most used languages" />
-</div>
+My public work is centered on backend architecture, distributed systems, and
+production-ready engineering examples.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taukhir&hide_border=true&background=00000000&ring=ff6b35&fire=ff6b35&currStreakLabel=ff6b35&sideLabels=9ca3af&dates=6b7280&currStreakNum=e5e7eb&sideNums=e5e7eb" alt="GitHub contribution streak" />
-</div>
+| Explore | What you will find |
+| --- | --- |
+| [Contribution activity](https://github.com/taukhir?tab=overview) | Commits, pull requests, reviews, and repository activity |
+| [Repositories](https://github.com/taukhir?tab=repositories) | Public projects, experiments, and reference implementations |
+| [ShopVerse](https://github.com/taukhir/shopverse) | My primary microservices architecture project |
 
 ## Career Highlights
 
