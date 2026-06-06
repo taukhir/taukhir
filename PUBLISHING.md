@@ -16,13 +16,13 @@ name as the account. For this profile, the repository must be:
 7. Open PowerShell and run:
 
 ```powershell
-cd "D:\BE Projects\shopverse\github-profile"
+cd "D:\BE Projects\taukhir"
 git init
-git add README.md assets/profile-banner.svg
+git add README.md PUBLISHING.md assets
 git commit -m "Create GitHub profile"
-git branch -M main
+git branch -M master
 git remote add origin https://github.com/taukhir/taukhir.git
-git push -u origin main
+git push -u origin master
 ```
 
 GitHub may open a browser window for authentication during the first push.
@@ -43,7 +43,7 @@ README uses that relative path.
 After publishing, edit files locally and run:
 
 ```powershell
-cd "D:\BE Projects\shopverse\github-profile"
+cd "D:\BE Projects\taukhir"
 git add .
 git commit -m "Update GitHub profile"
 git push

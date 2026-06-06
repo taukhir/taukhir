@@ -12,6 +12,9 @@
   <a href="https://github.com/taukhir">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
   </a>
+  <a href="https://taukhir.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-View_my_work-ff6b35?style=for-the-badge&logo=githubpages&logoColor=white" alt="View Tauqeer Ahmed's portfolio" />
+  </a>
 </div>
 
 ## Hello, I am Tauqeer
@@ -72,6 +75,12 @@ just a collection of disconnected services.
 | --- | --- | --- |
 | [**taukhir/shopverse**](https://github.com/taukhir/shopverse) | Resilient commerce workflows and production-minded service design | Java 17, Spring Boot, Kafka, Kubernetes, AWS |
 
+<div align="center">
+  <a href="https://github.com/taukhir/shopverse">
+    <img src="./assets/shopverse-architecture-flow.svg" alt="ShopVerse microservices architecture" width="100%" />
+  </a>
+</div>
+
 ### The engineering questions it answers
 
 | Challenge | Approach |
@@ -130,6 +139,7 @@ production-ready engineering examples.
 | [Contribution activity](https://github.com/taukhir?tab=overview) | Commits, pull requests, reviews, and repository activity |
 | [Repositories](https://github.com/taukhir?tab=repositories) | Public projects, experiments, and reference implementations |
 | [ShopVerse](https://github.com/taukhir/shopverse) | My primary microservices architecture project |
+| [Portfolio](https://taukhir.github.io/portfolio/) | Experience, system design work, skills, and contact details |
 
 ## Career Highlights
 
@@ -155,7 +165,9 @@ matters.
 
 **Email:** [ahmedtaukhir@gmail.com](mailto:ahmedtaukhir@gmail.com)  
 **LinkedIn:** [tauqeer-ahmed-379803173](https://www.linkedin.com/in/tauqeer-ahmed-379803173)  
-**GitHub:** [github.com/taukhir](https://github.com/taukhir)
+**GitHub:** [github.com/taukhir](https://github.com/taukhir)<br>
+**Portfolio:** [taukhir.github.io/portfolio](https://taukhir.github.io/portfolio/)<br>
+**Résumé:** [View or download PDF](https://taukhir.github.io/portfolio/assets/Tauqeer-Ahmed-Resume.pdf)
 
 <div align="center">
   <strong>Architecture should make change safer, not make the diagram more impressive.</strong>
