@@ -1,0 +1,41 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="430" rx="16" fill="#0B0F14"/>
+  <path d="M0 72H1200M0 358H1200M120 0V430M240 0V430M360 0V430M480 0V430M600 0V430M720 0V430M840 0V430M960 0V430M1080 0V430" stroke="#151B23"/>
+
+  <text x="52" y="45" fill="#FF6B35" font-family="Consolas, monospace" font-size="12" font-weight="700" letter-spacing="2">LEAD ENGINEERING SYSTEM</text>
+  <circle cx="1138" cy="40" r="5" fill="#A8F0C6"/>
+
+  <rect x="474" y="134" width="252" height="150" rx="10" fill="#171D25" stroke="#FF6B35" stroke-width="2"/>
+  <text x="600" y="177" text-anchor="middle" fill="#FF6B35" font-family="Consolas, monospace" font-size="11" font-weight="700">TECHNICAL LEADERSHIP</text>
+  <text x="600" y="214" text-anchor="middle" fill="#FFFDF8" font-family="Arial, sans-serif" font-size="25" font-weight="700">Direction + delivery</text>
+  <text x="600" y="244" text-anchor="middle" fill="#98A2AE" font-family="Arial, sans-serif" font-size="13">Hands-on ownership</text>
+
+  <rect x="52" y="112" width="278" height="194" rx="9" fill="#10151C" stroke="#303943"/>
+  <text x="78" y="144" fill="#A8F0C6" font-family="Consolas, monospace" font-size="10" font-weight="700">01 / SHAPE DIRECTION</text>
+  <text x="78" y="181" fill="#FFFDF8" font-family="Arial, sans-serif" font-size="21" font-weight="700">Architecture</text>
+  <text x="78" y="211" fill="#98A2AE" font-family="Arial, sans-serif" font-size="13">Boundaries and trade-offs</text>
+  <text x="78" y="237" fill="#98A2AE" font-family="Arial, sans-serif" font-size="13">Feasibility and POCs</text>
+  <text x="78" y="263" fill="#98A2AE" font-family="Arial, sans-serif" font-size="13">Implementation paths</text>
+
+  <rect x="870" y="112" width="278" height="194" rx="9" fill="#10151C" stroke="#303943"/>
+  <text x="896" y="144" fill="#A8F0C6" font-family="Consolas, monospace" font-size="10" font-weight="700">02 / BUILD SYSTEMS</text>
+  <text x="896" y="181" fill="#FFFDF8" font-family="Arial, sans-serif" font-size="21" font-weight="700">Resilience</text>
+  <text x="896" y="211" fill="#98A2AE" font-family="Arial, sans-serif" font-size="13">APIs and microservices</text>
+  <text x="896" y="237" fill="#98A2AE" font-family="Arial, sans-serif" font-size="13">Events and workflows</text>
+  <text x="896" y="263" fill="#98A2AE" font-family="Arial, sans-serif" font-size="13">Failure and recovery</text>
+
+  <rect x="256" y="332" width="278" height="72" rx="8" fill="#10151C" stroke="#303943"/>
+  <text x="280" y="361" fill="#FF6B35" font-family="Consolas, monospace" font-size="10" font-weight="700">03 / ENABLE DELIVERY</text>
+  <text x="280" y="385" fill="#CDD4DB" font-family="Arial, sans-serif" font-size="13">Automation / quality / operations</text>
+
+  <rect x="666" y="332" width="278" height="72" rx="8" fill="#10151C" stroke="#303943"/>
+  <text x="690" y="361" fill="#FF6B35" font-family="Consolas, monospace" font-size="10" font-weight="700">04 / GROW TEAMS</text>
+  <text x="690" y="385" fill="#CDD4DB" font-family="Arial, sans-serif" font-size="13">Mentoring / reviews / alignment</text>
+
+  <path d="M330 209H474" stroke="#FF6B35" stroke-width="2"/>
+  <path d="M726 209H870" stroke="#FF6B35" stroke-width="2"/>
+  <path d="M540 284L430 332" stroke="#A8F0C6" stroke-width="2"/>
+  <path d="M660 284L770 332" stroke="#A8F0C6" stroke-width="2"/>
+  <circle cx="402" cy="209" r="4" fill="#FF6B35"/>
+  <circle cx="798" cy="209" r="4" fill="#FF6B35"/>
+</svg>

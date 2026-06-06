@@ -1,0 +1,39 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="280" rx="16" fill="#0B0F14"/>
+  <path d="M300 38V242M600 38V242M900 38V242" stroke="#303943"/>
+  <path d="M38 38H1162V242H38V38Z" stroke="#303943"/>
+
+  <g transform="translate(66 62)">
+    <circle cx="22" cy="22" r="22" fill="#171D25" stroke="#FF6B35"/>
+    <path d="M15 29L22 13L29 29M18 24H26" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="0" y="100" fill="#FFFDF8" font-family="Arial, sans-serif" font-size="52" font-weight="700">7</text>
+    <text x="37" y="100" fill="#FF6B35" font-family="Consolas, monospace" font-size="13" font-weight="700">YEARS</text>
+    <text x="0" y="130" fill="#98A2AE" font-family="Arial, sans-serif" font-size="14">Enterprise engineering</text>
+    <text x="0" y="152" fill="#66717D" font-family="Arial, sans-serif" font-size="12">Architecture to operations</text>
+  </g>
+
+  <g transform="translate(366 62)">
+    <circle cx="22" cy="22" r="22" fill="#171D25" stroke="#A8F0C6"/>
+    <path d="M13 22H31M22 13V31" stroke="#A8F0C6" stroke-width="2" stroke-linecap="round"/>
+    <text x="0" y="100" fill="#FFFDF8" font-family="Arial, sans-serif" font-size="52" font-weight="700">4</text>
+    <text x="37" y="100" fill="#A8F0C6" font-family="Consolas, monospace" font-size="13" font-weight="700">DOMAINS</text>
+    <text x="0" y="130" fill="#98A2AE" font-family="Arial, sans-serif" font-size="14">Finance to healthcare</text>
+    <text x="0" y="152" fill="#66717D" font-family="Arial, sans-serif" font-size="12">Telecom and commerce</text>
+  </g>
+
+  <g transform="translate(666 62)">
+    <circle cx="22" cy="22" r="22" fill="#171D25" stroke="#FF6B35"/>
+    <path d="M12 28L19 21L24 25L33 14" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="0" y="100" fill="#FFFDF8" font-family="Arial, sans-serif" font-size="52" font-weight="700">40%</text>
+    <text x="0" y="130" fill="#98A2AE" font-family="Arial, sans-serif" font-size="14">Less manual effort</text>
+    <text x="0" y="152" fill="#66717D" font-family="Arial, sans-serif" font-size="12">Through workflow automation</text>
+  </g>
+
+  <g transform="translate(966 62)">
+    <circle cx="22" cy="22" r="22" fill="#171D25" stroke="#A8F0C6"/>
+    <path d="M13 22L19 28L32 15" stroke="#A8F0C6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="0" y="100" fill="#FFFDF8" font-family="Arial, sans-serif" font-size="52" font-weight="700">90%+</text>
+    <text x="0" y="130" fill="#98A2AE" font-family="Arial, sans-serif" font-size="14">Automated coverage</text>
+    <text x="0" y="152" fill="#66717D" font-family="Arial, sans-serif" font-size="12">On critical services</text>
+  </g>
+</svg>

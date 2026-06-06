@@ -3,174 +3,186 @@
 </div>
 
 <div align="center">
-  <a href="mailto:ahmedtaukhir@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Start_a_conversation-ff6b35?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Tauqeer Ahmed" />
+  <a href="https://taukhir.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore_my_work-ff6b35?style=for-the-badge&logo=githubpages&logoColor=white" alt="View Tauqeer Ahmed's portfolio" />
+  </a>
+  <a href="https://github.com/taukhir/shopverse">
+    <img src="https://img.shields.io/badge/Architecture-Explore_ShopVerse-20252d?style=for-the-badge&logo=github&logoColor=white" alt="Explore ShopVerse" />
   </a>
   <a href="https://www.linkedin.com/in/tauqeer-ahmed-379803173">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Tauqeer Ahmed on LinkedIn" />
   </a>
-  <a href="https://github.com/taukhir">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
-  </a>
-  <a href="https://taukhir.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-View_my_work-ff6b35?style=for-the-badge&logo=githubpages&logoColor=white" alt="View Tauqeer Ahmed's portfolio" />
+  <a href="mailto:ahmedtaukhir@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Start_a_conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Tauqeer Ahmed" />
   </a>
 </div>
 
-## Hello, I am Tauqeer Ahmed
+## Lead Backend Engineer
 
-Online, I use the GitHub username **taukhir**, so you may also find me by
-searching for **Taukhir Ahmed**.
+I am **Tauqeer Ahmed**, also discoverable online as **Taukhir Ahmed** and
+[`@taukhir`](https://github.com/taukhir). I build backend platforms that remain
+reliable as their traffic, teams, and business complexity grow.
 
-I am a **Lead Backend Engineer** based in Bangalore, India, with nearly seven
-years of experience delivering enterprise software across finance, healthcare,
-telecom, and commerce.
-
-I turn complex business workflows into backend systems that are easier to
-operate, evolve, and trust. My work spans architecture and implementation:
-service boundaries, production APIs, event-driven workflows, platform
-modernization, observability, and technical leadership.
+My work combines hands-on engineering with lead-level ownership: system
+boundaries, production APIs, event-driven workflows, platform modernization,
+delivery confidence, observability, mentoring, and architecture decisions.
 
 ```text
-tauqeer@engineering:~$ profile
-
 ROLE        Lead Backend Engineer
-BUILDS      Reliable services, event-driven platforms, enterprise POCs
+FOCUS       Distributed systems | Platform engineering | Solution architecture
 STACK       Java 17 | Spring Boot | Kafka | Kubernetes | AWS
-LEADS       Architecture reviews | Mentoring | Delivery ownership
-EXPLORES    Platform engineering | Distributed systems | Applied AI
+LEADERSHIP  Technical direction | Reviews | Mentoring | Delivery ownership
 LOCATION    Bangalore, India | Open to GCC relocation
 ```
 
 ## Engineering Impact
 
-| 7 years | 40% less effort | 90%+ coverage | 4 domains |
-| :---: | :---: | :---: | :---: |
-| Enterprise engineering | Through workflow automation | On critical services | Finance, healthcare, telecom, commerce |
-
-## My Engineering Operating System
-
-```mermaid
-flowchart LR
-    A["Understand the outcome"] --> B["Model boundaries"]
-    B --> C["Design for failure"]
-    C --> D["Automate confidence"]
-    D --> E["Observe reality"]
-    E --> F["Learn and simplify"]
-    F --> B
-```
-
-| Principle | What it means in practice |
-| --- | --- |
-| **Clarity before code** | Make business rules, boundaries, and trade-offs reviewable |
-| **Failure is a design input** | Plan retries, idempotency, compensation, and recovery paths |
-| **Observability is a feature** | Ship metrics, logs, traces, and actionable health signals |
-| **Automation creates leverage** | Remove repetitive work from testing, delivery, and operations |
-| **Leadership multiplies context** | Help teams understand why a decision works, not only what to build |
-
-## ShopVerse: Architecture in Practice
-
-**ShopVerse** is a production-minded Spring Boot microservices reference
-platform where I explore the decisions behind a real e-commerce backend, not
-just a collection of disconnected services.
-
-| Repository | Focus | Core stack |
-| --- | --- | --- |
-| [**taukhir/shopverse**](https://github.com/taukhir/shopverse) | Resilient commerce workflows and production-minded service design | Java 17, Spring Boot, Kafka, Kubernetes, AWS |
-
 <div align="center">
-  <a href="https://github.com/taukhir/shopverse">
-    <img src="./assets/shopverse-architecture-flow.svg" alt="ShopVerse microservices architecture" width="100%" />
-  </a>
+  <img src="./assets/engineering-impact.svg" alt="Engineering impact: seven years, four domains, forty percent less manual effort, and over ninety percent test coverage" width="100%" />
 </div>
 
-### The engineering questions it answers
-
-| Challenge | Approach |
+| Impact area | What I delivered |
 | --- | --- |
-| How should services communicate safely? | REST for direct operations and Kafka for asynchronous workflows |
-| What happens when an order partially fails? | Choreography SAGA with explicit failure and compensation paths |
-| How is trust shared without sharing secrets? | Asymmetric JWT authentication and JWKS validation |
-| How do we understand production behavior? | Prometheus, Loki, Grafana, and Zipkin observability |
-| How does the platform remain repeatable? | Docker Compose, GitHub Actions, Jenkins, and centralized configuration |
+| **Architecture** | Modernized monolithic enterprise systems toward independently deployable microservices |
+| **Automation** | Reduced recurring manual operational effort by more than **40%** |
+| **Quality** | Reached **90%+ automated test coverage** on critical healthcare services |
+| **Security** | Helped drive an enterprise Kubernetes environment to **zero critical CVEs** |
+| **Interoperability** | Built HL7-to-FHIR and Kafka-based clinical data-processing pipelines |
+| **Leadership** | Lead feasibility studies, architecture reviews, technical delivery, and mentoring |
 
-<p>
-  <a href="https://github.com/taukhir/shopverse">
-    <img src="https://img.shields.io/badge/Explore-ShopVerse-ff6b35?style=flat-square&logo=github&logoColor=white" alt="Explore ShopVerse" />
-  </a>
-</p>
+## Lead Engineering Capabilities
 
-## Tools I Use to Deliver
+<div align="center">
+  <img src="./assets/lead-engineering-map.svg" alt="Lead engineering capabilities across direction, systems, delivery, and teams" width="100%" />
+</div>
+
+| Shape direction | Build resilient systems | Enable delivery | Grow teams |
+| --- | --- | --- | --- |
+| Architecture and feasibility | APIs and microservices | CI/CD and automation | Mentoring and reviews |
+| Boundaries and trade-offs | Events and failure handling | Observability and security | Stakeholder alignment |
+| POCs and implementation paths | Data and workflows | Incidents and operations | Technical ownership |
+
+## Technical Toolkit
 
 **Backend and architecture**
 
 ![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_APIs-ff6b35?style=flat-square)
 ![Microservices](https://img.shields.io/badge/Microservices-20252d?style=flat-square)
+![System Design](https://img.shields.io/badge/System_Design-111827?style=flat-square)
 
-**Events and data**
+**Events, workflow, and data**
 
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Camunda](https://img.shields.io/badge/Camunda-FC5D0D?style=flat-square&logo=camunda&logoColor=white)
+![SAGA](https://img.shields.io/badge/SAGA-Event_Choreography-D97706?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
+![FHIR](https://img.shields.io/badge/FHIR-Healthcare_Interop-E34F26?style=flat-square)
+![HL7](https://img.shields.io/badge/HL7-Clinical_Data-2563EB?style=flat-square)
 
-**Cloud and operations**
+**Cloud, platform, and delivery**
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
-**Quality and delivery**
+**Quality and leadership**
 
 ![JUnit](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqubecloud&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Architecture Reviews](https://img.shields.io/badge/Architecture_Reviews-7C3AED?style=flat-square)
+![Technical Mentoring](https://img.shields.io/badge/Technical_Mentoring-0F766E?style=flat-square)
+![Delivery Ownership](https://img.shields.io/badge/Delivery_Ownership-B91C1C?style=flat-square)
 
-## GitHub Activity
+## ShopVerse: Architecture in Practice
 
-My public work is centered on backend architecture, distributed systems, and
-production-ready engineering examples.
+[**ShopVerse**](https://github.com/taukhir/shopverse) is a production-minded
+Spring Boot microservices reference platform. It demonstrates the decisions
+behind a resilient commerce backend rather than only presenting disconnected
+services.
 
-| Explore | What you will find |
+<div align="center">
+  <a href="https://github.com/taukhir/shopverse">
+    <img src="./assets/shopverse-architecture-flow.svg" alt="ShopVerse microservices architecture with gateway, security, Kafka SAGA, data stores, and observability" width="100%" />
+  </a>
+</div>
+
+| Engineering question | ShopVerse approach |
 | --- | --- |
-| [Contribution activity](https://github.com/taukhir?tab=overview) | Commits, pull requests, reviews, and repository activity |
-| [Repositories](https://github.com/taukhir?tab=repositories) | Public projects, experiments, and reference implementations |
-| [ShopVerse](https://github.com/taukhir/shopverse) | My primary microservices architecture project |
-| [Portfolio](https://taukhir.github.io/portfolio/) | Experience, system design work, skills, and contact details |
+| How do services communicate safely? | REST for direct operations and Kafka for asynchronous workflows |
+| What happens when checkout partially fails? | Choreography SAGA with explicit failure and compensation paths |
+| How is authentication shared safely? | Asymmetric JWT signing and JWKS validation |
+| How is production behavior diagnosed? | Prometheus, Loki, Grafana, Zipkin, and propagated trace IDs |
+| How is delivery made repeatable? | Docker Compose, Kubernetes, GitHub Actions, Jenkins, and centralized configuration |
+
+<p align="center">
+  <a href="https://github.com/taukhir/shopverse">
+    <img src="https://img.shields.io/badge/Repository-View_source-181717?style=for-the-badge&logo=github&logoColor=white" alt="View ShopVerse source" />
+  </a>
+  <a href="https://github.com/taukhir/shopverse#readme">
+    <img src="https://img.shields.io/badge/Documentation-Read_architecture-ff6b35?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Read ShopVerse architecture documentation" />
+  </a>
+</p>
+
+## Engineering Principles
+
+| Principle | In practice |
+| --- | --- |
+| **Clarity before code** | Make rules, boundaries, constraints, and trade-offs reviewable |
+| **Failure is a design input** | Plan retries, idempotency, compensation, and recovery paths |
+| **Observability is a feature** | Ship metrics, logs, traces, and actionable health signals |
+| **Automation creates leverage** | Remove repetitive work from testing, delivery, and operations |
+| **Leadership multiplies context** | Help teams understand why a decision works, not only what to build |
 
 ## Career Highlights
 
-- **Nagarro:** lead enterprise POCs, convert ambiguous requirements into
-  demonstrable solutions, and guide architecture and delivery decisions
-- **HCLTech:** improved Kubernetes platform reliability and resolved critical
-  security vulnerabilities across enterprise environments
-- **Morgan Stanley:** contributed to investment-management modernization from
-  a monolith toward independently deployable microservices
-- **Optum:** built HL7-to-FHIR and Kafka-based healthcare data-processing flows
-- **Tecnotree:** engineered resilient event-driven services for telecom billing
-- **Automation:** reduced recurring manual operational effort by more than 40%
+- **Nagarro:** lead enterprise POCs, architecture evaluation, and delivery from
+  discovery through stakeholder validation
+- **HCLTech:** strengthened Kubernetes reliability, observability, security,
+  incident response, and production readiness
+- **Morgan Stanley:** supported investment-management modernization across
+  microservices, frontend modules, automation, and release engineering
+- **Optum:** delivered FHIR, HL7, Kafka, and Spring Boot healthcare data flows
+- **Tecnotree:** built resilient event-driven telecom billing workflows
 
-## Beyond the Repository
+## Explore My Work
 
-I enjoy the part of engineering where the answer is not obvious yet: making
-trade-offs visible, turning a proof of concept into a production direction, and
-leaving both the system and the team easier to evolve.
+| Destination | What you will find |
+| --- | --- |
+| [Portfolio](https://taukhir.github.io/portfolio/) | Experience, capabilities, architecture, engineering approach, and contact details |
+| [ShopVerse](https://github.com/taukhir/shopverse) | Microservices architecture, source code, deployment assets, and engineering documentation |
+| [Repositories](https://github.com/taukhir?tab=repositories) | Public projects, reference implementations, and experiments |
+| [GitHub activity](https://github.com/taukhir?tab=overview) | Contributions, commits, pull requests, and repository activity |
+| [Resume](https://taukhir.github.io/portfolio/assets/Tauqeer-Ahmed-Resume.pdf) | Detailed professional experience and technical background |
 
-I am open to **Lead Backend Engineer**, **Platform Engineering**, and
-**Solution Architecture** opportunities where hands-on technical leadership
-matters.
+## Current Direction
 
-**Email:** [ahmedtaukhir@gmail.com](mailto:ahmedtaukhir@gmail.com)  
-**LinkedIn:** [tauqeer-ahmed-379803173](https://www.linkedin.com/in/tauqeer-ahmed-379803173)  
-**GitHub:** [github.com/taukhir](https://github.com/taukhir)<br>
-**Portfolio:** [taukhir.github.io/portfolio](https://taukhir.github.io/portfolio/)<br>
-**Résumé:** [View or download PDF](https://taukhir.github.io/portfolio/assets/Tauqeer-Ahmed-Resume.pdf)
+I am interested in **Lead Backend Engineer**, **Platform Engineering**, and
+**Solution Architecture** opportunities where hands-on technical leadership,
+distributed systems, and production ownership matter.
+
+<div align="center">
+  <a href="mailto:ahmedtaukhir@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ahmedtaukhir%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email address" />
+  </a>
+  <a href="https://www.linkedin.com/in/tauqeer-ahmed-379803173">
+    <img src="https://img.shields.io/badge/LinkedIn-Tauqeer_Ahmed-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
+  <a href="https://taukhir.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-taukhir.github.io-ff6b35?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio URL" />
+  </a>
+</div>
+
+<br>
 
 <div align="center">
   <strong>Architecture should make change safer, not make the diagram more impressive.</strong>
