@@ -35,6 +35,15 @@ LEADERSHIP  Technical direction | Reviews | Mentoring | Delivery ownership
 LOCATION    Bangalore, India | Open to GCC relocation
 ```
 
+## Current Focus
+
+| Now | What I am working on |
+| --- | --- |
+| **Role** | Lead Engineer focused on backend platforms, architecture, and delivery ownership |
+| **Current work** | Enterprise POCs, scalable Spring Boot services, workflow automation, and implementation-ready architecture |
+| **Engineering direction** | Distributed systems, event-driven workflows, platform reliability, and observability |
+| **Collaboration** | Architecture reviews, technical mentoring, stakeholder alignment, and code quality |
+
 ## Engineering Impact
 
 <div align="center">
@@ -160,6 +169,7 @@ services.
 | --- | --- |
 | [Portfolio](https://taukhir.github.io/portfolio/) | Experience, capabilities, architecture, engineering approach, and contact details |
 | [ShopVerse](https://github.com/taukhir/shopverse) | Microservices architecture, source code, deployment assets, and engineering documentation |
+| [Architecture diagram](./assets/shopverse-architecture-flow.svg) | Gateway, config, service discovery, JWT, Kafka SAGA, data, and observability flow |
 | [Repositories](https://github.com/taukhir?tab=repositories) | Public projects, reference implementations, and experiments |
 | [GitHub activity](https://github.com/taukhir?tab=overview) | Contributions, commits, pull requests, and repository activity |
 | [Resume](https://taukhir.github.io/portfolio/assets/Tauqeer-Ahmed-Resume.pdf) | Detailed professional experience and technical background |
