@@ -44,6 +44,15 @@ LOCATION    Bangalore, India | Open to GCC relocation
 | **Engineering direction** | Distributed systems, event-driven workflows, platform reliability, and observability |
 | **Collaboration** | Architecture reviews, technical mentoring, stakeholder alignment, and code quality |
 
+## Best Proof of Work
+
+| Proof | Why it matters |
+| --- | --- |
+| [**ShopVerse**](https://github.com/taukhir/shopverse) | Microservices platform showing gateway, service discovery, config, JWT/JWKS, Kafka SAGA, outbox, observability, Docker, and CI |
+| [Architecture decisions](https://github.com/taukhir/shopverse/tree/master/docs/adr) | Short ADRs explaining key backend trade-offs rather than only showing diagrams |
+| [Portfolio](https://taukhir.github.io/portfolio/) | Recruiter-friendly story of experience, leadership scope, architecture work, and contact details |
+| [ShopVerse architecture diagram](./assets/shopverse-architecture-flow.svg) | One-page visual of service boundaries, event flow, security, data stores, and observability |
+
 ## Engineering Impact
 
 <div align="center">
@@ -132,6 +141,7 @@ services.
 | How is authentication shared safely? | Asymmetric JWT signing and JWKS validation |
 | How is production behavior diagnosed? | Prometheus, Loki, Grafana, Zipkin, and propagated trace IDs |
 | How is delivery made repeatable? | Docker Compose, Kubernetes, GitHub Actions, Jenkins, and centralized configuration |
+| Where are trade-offs documented? | ADRs for gateway/discovery/config, Kafka SAGA, JWT/JWKS, and observability |
 
 <p align="center">
   <a href="https://github.com/taukhir/shopverse">
@@ -139,6 +149,9 @@ services.
   </a>
   <a href="https://github.com/taukhir/shopverse#readme">
     <img src="https://img.shields.io/badge/Documentation-Read_architecture-ff6b35?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Read ShopVerse architecture documentation" />
+  </a>
+  <a href="https://github.com/taukhir/shopverse/tree/master/docs/adr">
+    <img src="https://img.shields.io/badge/ADRs-Review_decisions-7C3AED?style=for-the-badge&logo=gitbook&logoColor=white" alt="Review ShopVerse architecture decisions" />
   </a>
 </p>
 
