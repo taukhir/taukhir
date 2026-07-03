@@ -1,0 +1,13 @@
+<svg width="640" height="640" viewBox="0 0 640 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="640" rx="128" fill="#0B0F14"/>
+  <path d="M0 128H640M0 256H640M0 384H640M0 512H640M128 0V640M256 0V640M384 0V640M512 0V640" stroke="#151B23" stroke-width="2"/>
+  <circle cx="472" cy="146" r="142" stroke="#FF6B35" stroke-opacity="0.28" stroke-width="4"/>
+  <circle cx="190" cy="510" r="118" stroke="#A8F0C6" stroke-opacity="0.16" stroke-width="4"/>
+  <rect x="96" y="96" width="448" height="448" rx="92" fill="#10151C" stroke="#303943" stroke-width="3"/>
+  <circle cx="320" cy="148" r="9" fill="#A8F0C6"/>
+  <text x="320" y="305" text-anchor="middle" fill="#FFFDF8" font-family="Arial, Helvetica, sans-serif" font-size="132" font-weight="800" letter-spacing="-8">TA</text>
+  <text x="320" y="370" text-anchor="middle" fill="#FF6B35" font-family="Consolas, monospace" font-size="22" font-weight="700" letter-spacing="4">LEAD BACKEND</text>
+  <text x="320" y="418" text-anchor="middle" fill="#98A2AE" font-family="Arial, Helvetica, sans-serif" font-size="24">Java / Spring / Kafka</text>
+  <rect x="190" y="464" width="260" height="42" rx="21" fill="#171D25" stroke="#343D47"/>
+  <text x="320" y="492" text-anchor="middle" fill="#CDD4DB" font-family="Consolas, monospace" font-size="17" font-weight="700">github.com/taukhir</text>
+</svg>

@@ -35,6 +35,15 @@ LEADERSHIP  Technical direction | Reviews | Mentoring | Delivery ownership
 LOCATION    Bangalore, India | Open to GCC relocation
 ```
 
+## Recruiter Quick Scan
+
+| Signal | Details |
+| --- | --- |
+| **Target roles** | Lead Backend Engineer, Platform Engineer, Solution Architect |
+| **Strongest proof** | [ShopVerse](https://github.com/taukhir/shopverse): Java/Spring microservices, Kafka SAGA, JWT/JWKS, observability, Docker, CI, and ADRs |
+| **Core stack** | Java 17/21, Spring Boot, Spring Cloud, Kafka, MySQL, Docker, Kubernetes, AWS |
+| **Leadership scope** | Architecture reviews, technical mentoring, stakeholder alignment, delivery ownership, production readiness |
+
 ## Current Focus
 
 | Now | What I am working on |
@@ -186,6 +195,14 @@ services.
 | [Repositories](https://github.com/taukhir?tab=repositories) | Public projects, reference implementations, and experiments |
 | [GitHub activity](https://github.com/taukhir?tab=overview) | Contributions, commits, pull requests, and repository activity |
 | [Resume](https://taukhir.github.io/portfolio/assets/Tauqeer-Ahmed-Resume.pdf) | Detailed professional experience and technical background |
+
+## Repository Portfolio
+
+| Repository | Role in my profile | What it proves |
+| --- | --- | --- |
+| [ShopVerse](https://github.com/taukhir/shopverse) | Primary architecture proof | Distributed checkout, Kafka choreography, outbox, security, observability, CI, Docker, and ADRs |
+| [Portfolio](https://github.com/taukhir/portfolio) | Hiring narrative and frontend polish | Responsive UI, accessibility, SEO, GitHub Pages deployment, and technical storytelling |
+| [smart-order-analytics-reporting](https://github.com/taukhir/smart-order-analytics-reporting) | Java/backend supporting project | Backend reporting and analytics direction |
 
 ## Current Direction
 
