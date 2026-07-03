@@ -9,6 +9,9 @@
   <a href="https://github.com/taukhir/shopverse">
     <img src="https://img.shields.io/badge/Architecture-Explore_ShopVerse-20252d?style=for-the-badge&logo=github&logoColor=white" alt="Explore ShopVerse" />
   </a>
+  <a href="https://github.com/taukhir/shopverse/tree/master/shopverse-web">
+    <img src="https://img.shields.io/badge/Angular-ShopVerse_Web-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Explore ShopVerse Web Angular project" />
+  </a>
   <a href="https://www.linkedin.com/in/tauqeer-ahmed-379803173">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Tauqeer Ahmed on LinkedIn" />
   </a>
@@ -40,8 +43,8 @@ LOCATION    Bangalore, India | Open to GCC relocation
 | Signal | Details |
 | --- | --- |
 | **Target roles** | Lead Backend Engineer, Platform Engineer, Solution Architect |
-| **Strongest proof** | [ShopVerse](https://github.com/taukhir/shopverse): Java/Spring microservices, Kafka SAGA, JWT/JWKS, observability, Docker, CI, and ADRs |
-| **Core stack** | Java 17/21, Spring Boot, Spring Cloud, Kafka, MySQL, Docker, Kubernetes, AWS |
+| **Strongest proof** | [ShopVerse](https://github.com/taukhir/shopverse): Java/Spring microservices, Kafka SAGA, JWT/JWKS, observability, Docker, CI, ADRs, and an Angular frontend |
+| **Core stack** | Java 17/21, Spring Boot, Spring Cloud, Kafka, Angular, TypeScript, MySQL, Docker, Kubernetes, AWS |
 | **Leadership scope** | Architecture reviews, technical mentoring, stakeholder alignment, delivery ownership, production readiness |
 
 ## Current Focus
@@ -58,6 +61,7 @@ LOCATION    Bangalore, India | Open to GCC relocation
 | Proof | Why it matters |
 | --- | --- |
 | [**ShopVerse**](https://github.com/taukhir/shopverse) | Microservices platform showing gateway, service discovery, config, JWT/JWKS, Kafka SAGA, outbox, observability, Docker, and CI |
+| [**ShopVerse Web**](https://github.com/taukhir/shopverse/tree/master/shopverse-web) | Angular commerce client connecting storefront, auth, cart, checkout, orders, account, and admin operations to the backend APIs |
 | [Architecture decisions](https://github.com/taukhir/shopverse/tree/master/docs/adr) | Short ADRs explaining key backend trade-offs rather than only showing diagrams |
 | [Portfolio](https://taukhir.github.io/portfolio/) | Recruiter-friendly story of experience, leadership scope, architecture work, and contact details |
 | [ShopVerse architecture diagram](./assets/shopverse-architecture-flow.svg) | One-page visual of service boundaries, event flow, security, data stores, and observability |
@@ -100,6 +104,15 @@ LOCATION    Bangalore, India | Open to GCC relocation
 ![REST](https://img.shields.io/badge/REST_APIs-ff6b35?style=flat-square)
 ![Microservices](https://img.shields.io/badge/Microservices-20252d?style=flat-square)
 ![System Design](https://img.shields.io/badge/System_Design-111827?style=flat-square)
+
+**Frontend and product delivery**
+
+![Angular](https://img.shields.io/badge/Angular_22-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![Responsive UI](https://img.shields.io/badge/Responsive_UI-0F766E?style=flat-square)
+![Accessibility](https://img.shields.io/badge/Accessibility-2563EB?style=flat-square)
+![Frontend Integration](https://img.shields.io/badge/Frontend_Integration-7C3AED?style=flat-square)
 
 **Events, workflow, and data**
 
@@ -148,6 +161,7 @@ services.
 | How do services communicate safely? | REST for direct operations and Kafka for asynchronous workflows |
 | What happens when checkout partially fails? | Choreography SAGA with explicit failure and compensation paths |
 | How is authentication shared safely? | Asymmetric JWT signing and JWKS validation |
+| How does the system become usable end to end? | Angular storefront and admin UI covering auth, catalog, cart, checkout, orders, account, inventory, payments, users, and recovery |
 | How is production behavior diagnosed? | Prometheus, Loki, Grafana, Zipkin, and propagated trace IDs |
 | How is delivery made repeatable? | Docker Compose, Kubernetes, GitHub Actions, Jenkins, and centralized configuration |
 | Where are trade-offs documented? | ADRs for gateway/discovery/config, Kafka SAGA, JWT/JWKS, and observability |
@@ -159,10 +173,28 @@ services.
   <a href="https://github.com/taukhir/shopverse#readme">
     <img src="https://img.shields.io/badge/Documentation-Read_architecture-ff6b35?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Read ShopVerse architecture documentation" />
   </a>
+  <a href="https://github.com/taukhir/shopverse/tree/master/shopverse-web">
+    <img src="https://img.shields.io/badge/Angular_Client-View_ShopVerse_Web-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="View ShopVerse Web Angular client" />
+  </a>
   <a href="https://github.com/taukhir/shopverse/tree/master/docs/adr">
     <img src="https://img.shields.io/badge/ADRs-Review_decisions-7C3AED?style=for-the-badge&logo=gitbook&logoColor=white" alt="Review ShopVerse architecture decisions" />
   </a>
 </p>
+
+## ShopVerse Web: Angular Frontend
+
+[**ShopVerse Web**](https://github.com/taukhir/shopverse/tree/master/shopverse-web)
+is the Angular client for the ShopVerse platform. It shows that the architecture
+is not only a backend diagram: the system has user-facing flows, protected
+routes, session handling, checkout integration, and operations screens.
+
+| Area | What it demonstrates |
+| --- | --- |
+| **Customer journey** | Storefront, catalog, cart, checkout, order history, order detail, and account pages |
+| **Security integration** | Login, registration, JWT session storage, auth guards, and an HTTP auth interceptor |
+| **Backend integration** | REST calls into ShopVerse APIs for users, orders, inventory, payment, and recovery data |
+| **Operations UI** | Admin views for orders, inventory, payments, failed-event recovery, and user management |
+| **Frontend stack** | Angular 22, TypeScript, RxJS, Angular Router, forms, responsive SCSS, and API-driven state |
 
 ## Engineering Principles
 
@@ -191,6 +223,7 @@ services.
 | --- | --- |
 | [Portfolio](https://taukhir.github.io/portfolio/) | Experience, capabilities, architecture, engineering approach, and contact details |
 | [ShopVerse](https://github.com/taukhir/shopverse) | Microservices architecture, source code, deployment assets, and engineering documentation |
+| [ShopVerse Web](https://github.com/taukhir/shopverse/tree/master/shopverse-web) | Angular storefront, checkout, account, order tracking, and admin operations UI |
 | [Architecture diagram](./assets/shopverse-architecture-flow.svg) | Gateway, config, service discovery, JWT, Kafka SAGA, data, and observability flow |
 | [Repositories](https://github.com/taukhir?tab=repositories) | Public projects, reference implementations, and experiments |
 | [GitHub activity](https://github.com/taukhir?tab=overview) | Contributions, commits, pull requests, and repository activity |
@@ -200,7 +233,8 @@ services.
 
 | Repository | Role in my profile | What it proves |
 | --- | --- | --- |
-| [ShopVerse](https://github.com/taukhir/shopverse) | Primary architecture proof | Distributed checkout, Kafka choreography, outbox, security, observability, CI, Docker, and ADRs |
+| [ShopVerse](https://github.com/taukhir/shopverse) | Primary architecture proof | Distributed checkout, Kafka choreography, outbox, security, observability, CI, Docker, ADRs, and Angular client integration |
+| [ShopVerse Web](https://github.com/taukhir/shopverse/tree/master/shopverse-web) | Frontend/product proof | Angular storefront, protected routes, cart, checkout, order tracking, account, and admin operations screens |
 | [Portfolio](https://github.com/taukhir/portfolio) | Hiring narrative and frontend polish | Responsive UI, accessibility, SEO, GitHub Pages deployment, and technical storytelling |
 | [smart-order-analytics-reporting](https://github.com/taukhir/smart-order-analytics-reporting) | Java/backend supporting project | Backend reporting and analytics direction |
 
