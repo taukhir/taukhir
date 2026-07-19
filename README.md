@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="Tauqeer Ahmed - Lead Backend Engineer" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Tauqeer Ahmed - Staff / Lead Backend Engineer" width="100%" />
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@
   </a>
 </div>
 
-## Lead Backend Engineer
+## Staff / Lead Backend Engineer
 
 I am **Tauqeer Ahmed**, also discoverable online as **Taukhir Ahmed** and
 [`@taukhir`](https://github.com/taukhir). I build backend platforms that remain
@@ -31,9 +31,9 @@ boundaries, production APIs, event-driven workflows, platform modernization,
 delivery confidence, observability, mentoring, and architecture decisions.
 
 ```text
-ROLE        Lead Backend Engineer
+ROLE        Staff / Lead Backend Engineer
 FOCUS       Distributed systems | Platform engineering | Solution architecture
-STACK       Java 17 | Spring Boot | Kafka | Kubernetes | AWS
+STACK       Java 17 | Spring Boot | Kafka | Angular | Kubernetes | AWS
 LEADERSHIP  Technical direction | Reviews | Mentoring | Delivery ownership
 LOCATION    Bangalore, India | Open to GCC relocation
 ```
@@ -42,7 +42,7 @@ LOCATION    Bangalore, India | Open to GCC relocation
 
 | Signal | Details |
 | --- | --- |
-| **Target roles** | Lead Backend Engineer, Platform Engineer, Solution Architect |
+| **Target roles** | Staff Backend Engineer, Lead Backend Engineer, Platform Engineer, Solution Architect |
 | **Strongest proof** | [ShopVerse](https://github.com/taukhir/shopverse): Java/Spring microservices, Kafka SAGA, JWT/JWKS, observability, Docker, CI, ADRs, and an Angular frontend |
 | **Core stack** | Java 17/21, Spring Boot, Spring Cloud, Kafka, Angular, TypeScript, MySQL, Docker, Kubernetes, AWS |
 | **Leadership scope** | Architecture reviews, technical mentoring, stakeholder alignment, delivery ownership, production readiness |
@@ -51,7 +51,7 @@ LOCATION    Bangalore, India | Open to GCC relocation
 
 | Now | What I am working on |
 | --- | --- |
-| **Role** | Lead Engineer focused on backend platforms, architecture, and delivery ownership |
+| **Role** | Staff / Lead Engineer focused on backend platforms, architecture, and delivery ownership |
 | **Current work** | Enterprise POCs, scalable Spring Boot services, workflow automation, and implementation-ready architecture |
 | **Engineering direction** | Distributed systems, event-driven workflows, platform reliability, and observability |
 | **Collaboration** | Architecture reviews, technical mentoring, stakeholder alignment, and code quality |
@@ -74,8 +74,9 @@ LOCATION    Bangalore, India | Open to GCC relocation
 
 | Impact area | What I delivered |
 | --- | --- |
-| **Architecture** | Modernized monolithic enterprise systems toward independently deployable microservices |
+| **Architecture** | Decomposed a banking reporting monolith into **8+ Spring Boot microservices** |
 | **Automation** | Reduced recurring manual operational effort by more than **40%** |
+| **Scale** | Built Kafka-backed telecom billing services processing **10M+ monthly transactions** |
 | **Quality** | Reached **90%+ automated test coverage** on critical healthcare services |
 | **Security** | Helped drive an enterprise Kubernetes environment to **zero critical CVEs** |
 | **Interoperability** | Built HL7-to-FHIR and Kafka-based clinical data-processing pipelines |
@@ -212,10 +213,13 @@ routes, session handling, checkout integration, and operations screens.
   discovery through stakeholder validation
 - **HCLTech:** strengthened Kubernetes reliability, observability, security,
   incident response, and production readiness
-- **Morgan Stanley:** supported investment-management modernization across
-  microservices, frontend modules, automation, and release engineering
+- **Morgan Stanley:** decomposed a legacy reporting platform into 8+ Spring Boot
+  microservices, upgraded Angular 7 to 17 applications, and reduced manual
+  reporting effort by 40%+
 - **Optum:** delivered FHIR, HL7, Kafka, and Spring Boot healthcare data flows
-- **Tecnotree:** built resilient event-driven telecom billing workflows
+  with 90%+ test coverage and 40% faster issue detection through monitoring
+- **Tecnotree:** built resilient event-driven telecom billing workflows handling
+  10M+ monthly transactions and automated 25+ Camunda/BPMN workflows
 
 ## Explore My Work
 
@@ -240,7 +244,7 @@ routes, session handling, checkout integration, and operations screens.
 
 ## Current Direction
 
-I am interested in **Lead Backend Engineer**, **Platform Engineering**, and
+I am interested in **Staff Backend Engineer**, **Lead Backend Engineer**, **Platform Engineering**, and
 **Solution Architecture** opportunities where hands-on technical leadership,
 distributed systems, and production ownership matter.
 
