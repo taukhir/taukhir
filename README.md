@@ -12,7 +12,7 @@
   <a href="https://github.com/taukhir/shopverse/tree/master/shopverse-web">
     <img src="https://img.shields.io/badge/Angular-ShopVerse_Web-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Explore ShopVerse Web Angular project" />
   </a>
-  <a href="https://www.linkedin.com/in/tauqeer-ahmed-379803173">
+  <a href="https://www.linkedin.com/in/tauqeer-ahmed-java">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Tauqeer Ahmed on LinkedIn" />
   </a>
   <a href="mailto:ahmedtaukhir@gmail.com">
@@ -252,7 +252,7 @@ distributed systems, and production ownership matter.
   <a href="mailto:ahmedtaukhir@gmail.com">
     <img src="https://img.shields.io/badge/Email-ahmedtaukhir%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email address" />
   </a>
-  <a href="https://www.linkedin.com/in/tauqeer-ahmed-379803173">
+  <a href="https://www.linkedin.com/in/tauqeer-ahmed-java">
     <img src="https://img.shields.io/badge/LinkedIn-Tauqeer_Ahmed-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
   <a href="https://taukhir.github.io/portfolio/">
