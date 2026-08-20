@@ -6,7 +6,7 @@
   <a href="https://taukhir.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-View_my_work-ff6b35?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/taukhir/shopverse"><img src="https://img.shields.io/badge/Architecture-ShopVerse-20252d?style=for-the-badge&logo=github&logoColor=white" alt="ShopVerse" /></a>
   <a href="https://www.linkedin.com/in/tauqeer-ahmed-java"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ahmedtaukhir@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:tauqeerahmed.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 ## Staff Engineer | Lead Backend Engineer
@@ -63,7 +63,7 @@ I focus on distributed systems, event-driven architecture, platform reliability,
 
 - [Portfolio](https://taukhir.github.io/portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/tauqeer-ahmed-java)
-- [Email](mailto:ahmedtaukhir@gmail.com)
+- [Email](mailto:tauqeerahmed.dev@gmail.com)
 - [Resume](https://taukhir.github.io/portfolio/assets/Tauqeer-Ahmed-Resume.pdf)
 
 > Architecture should make change safer, not make the diagram more impressive.
