@@ -9,15 +9,15 @@
   <a href="mailto:tauqeerahmed.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
-## Staff Engineer | Lead Backend Engineer
+## Tauqeer Ahmed | Taukhir Ahmed | Staff Engineer | Lead Java Engineer
 
-I am **Tauqeer Ahmed**, a Staff Engineer at **Nagarro** with 7+ years of experience building Java and Spring Boot platforms across telecom, healthcare, financial services, and enterprise environments.
+I am **Tauqeer Ahmed**, also known online as **Taukhir Ahmed** / **taukhir**. I am a **Staff Engineer / Lead Java Engineer** at **Nagarro** with 7+ years of experience building Java, Spring Boot, Angular, microservices, Kafka, and Kubernetes platforms across telecom, healthcare, financial services, and enterprise environments.
 
-I focus on distributed systems, event-driven architecture, platform reliability, production APIs, and technical leadership. I am open to onsite or hybrid opportunities across Saudi Arabia and the GCC.
+I focus on distributed systems, event-driven architecture, platform reliability, production APIs, full-stack Java/Angular delivery, and technical leadership. I am open to onsite or hybrid opportunities across Saudi Arabia, UAE, Qatar, and the wider GCC.
 
 | Recruiter signal | Details |
 | --- | --- |
-| **Target roles** | Staff Engineer, Lead Backend Engineer, Senior Java Engineer, Platform Engineer |
+| **Target roles** | Staff Engineer, Lead Engineer, Lead Java Engineer, Java Full Stack Developer, Senior Java Developer, Senior Software Engineer, Backend Lead, Platform Engineer |
 | **Core stack** | Java 17/21, Spring Boot, Spring Cloud, Kafka, Kubernetes, Docker, SQL/NoSQL, Angular |
 | **Leadership** | Architecture reviews, technical mentoring, stakeholder alignment, delivery ownership |
 | **Current employer** | Nagarro |
@@ -49,7 +49,7 @@ I focus on distributed systems, event-driven architecture, platform reliability,
 
 ## Technical Focus
 
-`Java` · `Spring Boot` · `Spring Cloud` · `Microservices` · `Kafka` · `REST APIs` · `System Design` · `Kubernetes` · `Docker` · `AWS` · `MySQL` · `MongoDB` · `Cassandra` · `Angular` · `TypeScript` · `JUnit` · `CI/CD` · `Observability`
+`Tauqeer Ahmed` · `Taukhir Ahmed` · `Java` · `Spring Boot` · `Spring Cloud` · `Microservices` · `Kafka` · `REST APIs` · `System Design` · `Kubernetes` · `Docker` · `AWS` · `MySQL` · `PostgreSQL` · `DB2` · `Cassandra` · `Angular` · `TypeScript` · `JUnit` · `CI/CD` · `Observability`
 
 ## Career Snapshot
 
