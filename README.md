@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="Tauqeer Ahmed - Staff and Lead Backend Engineer" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Tauqeer Ahmed - Lead Java Engineer and Staff Engineer" width="100%" />
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
   <a href="mailto:tauqeerahmed.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
-## Tauqeer Ahmed | Taukhir Ahmed | Staff Engineer | Lead Java Engineer
+## Tauqeer Ahmed | taukhir | Staff Engineer | Lead Java Engineer
 
 I am **Tauqeer Ahmed**, also known online as **Taukhir Ahmed** / **taukhir**. I am a **Staff Engineer / Lead Java Engineer** at **Nagarro** with 7+ years of experience building Java, Spring Boot, Angular, microservices, Kafka, and Kubernetes platforms across telecom, healthcare, financial services, and enterprise environments.
 
